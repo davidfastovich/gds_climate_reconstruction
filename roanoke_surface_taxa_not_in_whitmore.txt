@@ -1,0 +1,46 @@
+"X..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nAesculus.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nAsimina.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nBignoniaceae.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nBotrychium..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nCucurbitaceae.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nPolypodiophyta.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nGentaniaceae.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nHypericum.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nJusticia.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nLindera.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nMyriophyllum.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nNuphar.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nNymphaea.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nPotamogeton.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nSagittaria.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nSmilax.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nTypha.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nUnknown...Monosulcate..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nUnknown...Tetracolporate..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nUnknown...Tricolpate..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nUnknown...Tricolporate..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nUnknown...Triporate.."
+"1" "
+The following taxa could not be found in the existing conversion table:
+Aesculus
+The following taxa could not be found in the existing conversion table:
+Asimina
+The following taxa could not be found in the existing conversion table:
+Bignoniaceae
+The following taxa could not be found in the existing conversion table:
+Botrychium 
+The following taxa could not be found in the existing conversion table:
+Cucurbitaceae
+The following taxa could not be found in the existing conversion table:
+Polypodiophyta
+The following taxa could not be found in the existing conversion table:
+Gentaniaceae
+The following taxa could not be found in the existing conversion table:
+Hypericum
+The following taxa could not be found in the existing conversion table:
+Justicia
+The following taxa could not be found in the existing conversion table:
+Lindera
+The following taxa could not be found in the existing conversion table:
+Myriophyllum
+The following taxa could not be found in the existing conversion table:
+Nuphar
+The following taxa could not be found in the existing conversion table:
+Nymphaea
+The following taxa could not be found in the existing conversion table:
+Potamogeton
+The following taxa could not be found in the existing conversion table:
+Sagittaria
+The following taxa could not be found in the existing conversion table:
+Smilax
+The following taxa could not be found in the existing conversion table:
+Typha
+The following taxa could not be found in the existing conversion table:
+Unknown - Monosulcate 
+The following taxa could not be found in the existing conversion table:
+Unknown - Tetracolporate 
+The following taxa could not be found in the existing conversion table:
+Unknown - Tricolpate 
+The following taxa could not be found in the existing conversion table:
+Unknown - Tricolporate 
+The following taxa could not be found in the existing conversion table:
+Unknown - Triporate "

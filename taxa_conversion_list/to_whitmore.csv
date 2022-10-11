@@ -1,0 +1,169 @@
+taxon,to_whitmore
+Abies,ABIES
+"Acer negundo",ACNEGUNA
+"Acer pensylvanicum",ACPENSYL
+"Acer rubrum",ACRUBRUM
+"Acer saccharinum",ACSACNUM
+"Acer saccharum",ACSACRUM
+Acer,ACERX
+"Alnus viridis subsp. crispa-type",ALCRISPA
+"Alnus rubra",ALRUBRA
+"Alnus cf. A. incana",ALRUGOSA
+Alnus,ALNUSX
+Ambrosia,AMBROSIA
+Amorpha,AMORPHA
+Anacardiaceae,ANACARDI
+Apiaceae,APIACEAE
+Ilex,AQUIFOLI
+Aquifoliaceae,AQUIFOLI
+Arceuthobium,ARCEUTHOBI
+Arecaceae,ARECACEAE
+Armeria,ARMERIA
+Artemisia,ARTEMISIA
+Eupatorium,ASTERX
+"Asteraceae indet.",ASTERX
+Liguliflorae,ASTERX
+Asteraceae,ASTERX
+"Asteraceae subf. Cichorioideae",ASTERCICHO
+Betula,BETULA
+Boraginaceae,BORAGINACEAE
+Botrychium,BOTRYCHIUM
+Brassicaceae,BRASSICACEAE
+Cactaceae,CACTACEAE
+Campanulaceae,CAMPANULACEA
+Sambucus,CAPRIFOLIA
+Viburnum,CAPRIFOLIA
+Caprifoliaceae,CAPRIFOLIA
+Carya,CARYA
+Stellaria,CARYOPHYLL
+Caryophyllaceae,CARYOPHYLL
+Castanea,CASTANEA
+Ceanothus,CEANOTHUS
+Celtis,CELTIS
+Cephalanthus,CEPHALANTH
+Cercocarpus,CERCOCAR
+Amaranthaceae,CHENOAMX
+"Chenopodiaceae sensu stricto",CHENOAMX
+Chrysolepis/Lithocarpus,CHRYSOLEP
+Cornus,CORNUS
+Corylus,CORYLUS
+Cupressaceae,CUPRESSA
+Cyperaceae,CYPERACE
+Dodecatheon,DODECATH
+Dryas,DRYAS
+Elaeagnaceae,ELAEAGNX
+Ephedra,EPHEDRA
+Equisetum,EQUISETU
+"Erica scoparia",ERILEDCH
+"Erica terminalis",ERIVACCI
+Ericaceae,ERICACEX
+Impatiens,ERICALES
+Primula,ERICALES
+Ericales,ERICALES
+Ericales,ERICALES
+Eriogonum,ERIOGONUM
+Euphorbiaceae,EUPHORB
+Cassia,FABACEAE
+Fabaceae,FABACEAE
+Fagus,FAGUS
+"Fraxinus nigra",FRAXNIGR
+"Fraxinus pennsylvanica/F. americana-type",FRAXPNAM
+Fraxinus,FRAXINUX
+Iva,IVA
+"Juglans cinerea",JUGCINER
+"Juglans nigra",JUGNIGRA
+Juglans,JUGLANSX
+"Juglans undiff.",JUGLANSX
+"Koenigia islandica",KOENISLD
+Lamiaceae,LAMIACEAE
+Larix,LARIXPSEU
+Larix/Pseudotsuga,LARIXPSEU
+Larrea,LARREA
+Liliaceae,LILIACEAE
+Liquidambar,LIQUIDAM
+Liriodendron,LIRIODEN
+"Lycopodium annotinum",LYCOANNO
+"Lycopodium clavatum",LYCOCLAV
+"Lycopodium dendroideum",LYCOCOMP
+"Lycopodium fastigiatum",LYCOSELA
+Lycopodium,LYCOPODX
+"Lycopodium undiff.",LYCOPODX
+Magnolia,MAGNOLIACE
+Magnoliaceae,MAGNOLIACE
+Malvaceae,MALVACEAE
+Morus,MORACEAX
+Moraceae,MORACEAX
+Morella,MYRICACX
+Myrica,MYRICACX
+Myricaceae,MYRICACX
+Nyssa,NYSSA
+Epilobium,ONAGRACEAE
+Onagraceae,ONAGRACEAE
+Osmunda,OSMUNDACEA
+Osmundaceae,OSMUNDACEA
+Carpinus,OSTRYCAR
+Ostrya/Carpinus,OSTRYCAR
+Oxyria,OXYRIA
+Papaveraceae,PAPAVERX
+Pedicularis,PEDICULARI
+Picea,PICEAX
+"Picea glauca",PICGLAUC
+"Picea mariana",PICMARIA
+"Picea undiff.",PICEAX
+"Pinus banksiana-type",PINDIPLO
+"Pinus cembra",PINHAPLO
+"Pinus strobus",PINUSX
+Pinus,PINUSX
+"Pinus undiff.",PINUSX
+Plantago,PLANTAGINX
+Hippuris,PLANTAGINX
+Plantaginaceae,PLANTAGINX
+Platanus,PLATANUS
+Poaceae,POACEAE
+Polemoniaceae,POLEMONI
+Polygonaceae,POLYGONAX
+"Polygonum bistortoides",POLYGBIS
+"Polygonum undiff.",POLYGONMX
+"Polygonum viviparum",POLYGVIV
+Polypodiaceae,POLYPOD
+Populus,POPULUS
+"cf. Potentilla",POTENTILLA
+Potentilla,POTENTILLA
+Prosopis,PROSOPIS
+Pteridium,PTERIDIUM
+Quercus,QUERCUS
+Ranunculaceae,RANUNCUL
+Vitis,RHAMNACEAE
+Rhamnaceae/Vitaceae,RHAMNACEAE
+Prunus,ROSACEAX
+Rosa,ROSACEAX
+Rosaceae,ROSACEAX
+Galium,RUBIACEAE
+Rubiaceae,RUBIACEAE
+Rubus,RUBUS
+Rumex,RUMEX
+Rumex/Oxyria,RUMEOXYR
+Salix,SALIX
+Sanguisorba,SANGUI
+Sarcobatus,SARCOBATUS
+"Saxifraga cernua",SXFRACER
+"Micranthes hieracifolia",SXFRAHIE
+"Saxifraga oppositifolia",SXFRAOPP
+"Saxifraga tricuspidata",SXFRATRI
+Saxifragaceae,SXFRAGAX
+Scrophulariaceae,SCROPHUL
+Selaginella,SELAGINE
+"Shepherdia canadensis",SHEPHERDIA
+Spahgnum,SPHAGNUM
+Sphagnum,SPHAGNUM
+Taxodium,TAXODIUM
+Taxus,TAXUS
+Thalictrum,THALICTRUM
+Tilia,TILIA
+"Tsuga heterophylla",TSUGHETE
+"Tsuga mertensiana",TSUGMERT
+Tsuga,TSUGAX
+"Tsuga undiff.",TSUGAX
+Ulmus,ULMUS
+Urticaceae,URTICACX
+Xanthium,XANTHIUM

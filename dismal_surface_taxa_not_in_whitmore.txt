@@ -1,0 +1,20 @@
+"X..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nItea.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nParthenocissus.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nPersea.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nPolygonum.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nPolypodiophyta..monolete..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nPolypodiophyta..trilete..nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nRhus.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nSolanaceae.nThe.following.taxa.could.not.be.found.in.the.existing.conversion.table..nTypha."
+"1" "
+The following taxa could not be found in the existing conversion table:
+Itea
+The following taxa could not be found in the existing conversion table:
+Parthenocissus
+The following taxa could not be found in the existing conversion table:
+Persea
+The following taxa could not be found in the existing conversion table:
+Polygonum
+The following taxa could not be found in the existing conversion table:
+Polypodiophyta (monolete)
+The following taxa could not be found in the existing conversion table:
+Polypodiophyta (trilete)
+The following taxa could not be found in the existing conversion table:
+Rhus
+The following taxa could not be found in the existing conversion table:
+Solanaceae
+The following taxa could not be found in the existing conversion table:
+Typha"
